@@ -1,0 +1,2 @@
+librosa==0.10
+ipython==7.12.0
